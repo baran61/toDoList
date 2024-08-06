@@ -51,7 +51,7 @@ function newElement() {
         alert('Listeye eklendi');
     }
 
-    //Input a girilen task
+    //Input a girilen task !
     const liElement = document.createElement('li');
     liElement.innerHTML = inputValue;
 
